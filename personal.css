@@ -29,6 +29,7 @@ img{
 
 .about-me p {
     text-indent: 50px;
+    overflow: auto; 
 }
 /*.important-links{
 
@@ -36,6 +37,7 @@ img{
 
 .important-links p {
     text-indent: 50px; 
+    overflow: auto; 
 }
 /*
 .important-links .p2 li {
