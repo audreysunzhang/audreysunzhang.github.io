@@ -2,4 +2,51 @@
 
 html{
     background-color: rgb(234, 235, 240);
+    font-family: sans-serif;
 }
+
+head{
+    margin: 50px 70px 25px 70px;
+}
+
+body{
+    margin: 0px 100px 25px 100px;
+}
+
+/*h1{
+
+}*/
+
+img{
+    width: 50px;
+    height: 100px;
+}
+
+/*.about-me{
+
+}*/
+
+.about-me p {
+    text-indent: 50px;
+}
+/*.important-links{
+
+}*/
+
+.important-links p {
+    text-indent: 50px; 
+}
+/*
+.important-links .p2 li {
+
+}*/
+
+
+
+
+
+
+
+
+
+
