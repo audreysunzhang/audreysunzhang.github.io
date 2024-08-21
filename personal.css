@@ -2,7 +2,7 @@
 
 html{
     background-color: rgb(234, 235, 240);
-    font-family: sans-serif;
+    font-family: "Lucida Console", monospace;
 }
 
 head{
@@ -18,8 +18,8 @@ body{
 }*/
 
 img{
-    width: 50px;
-    height: 100px;
+    width: auto;
+    height: auto;
 }
 
 /*.about-me{
