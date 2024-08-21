@@ -1,7 +1,7 @@
 /* this is a css commnet*/
 
 html{
-    background-color: rgb(245, 246, 255);
+    background-color: rgb(251, 251, 255);
     font-family: "Lucida Console", monospace;
 }
 
@@ -19,8 +19,8 @@ body{
 }*/
 
 img{
-    width: 400;
-    height: 600;
+    width: 300;
+    height: 500;
 }
 
 /*.about-me{
